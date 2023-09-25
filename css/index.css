@@ -1,0 +1,82 @@
+.one{
+    font-family: Inter,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 3.75rem;
+}
+.one span{
+    color: rgb(169 121 43);
+}
+
+.one h1{
+    font-size: 65px;
+}
+.four{
+    font-size: 1.875rem;
+}
+.six{
+    
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+}
+.navbar od{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.row .ten{
+    font-size: 1.5rem;
+    font-family: Inter,Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: rgb(75 85 99);
+    text-align: center;
+    margin-top: 40px;
+    
+}
+.eight h1{
+    color: rgb(31 41 55);
+    text-align: center;
+    font-size: 1.8rem;
+    font-family: Inter,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.imm{
+    width: 15rem;
+    height: 15rem;
+    margin: auto;
+    background-color: white;
+    transition: .5s;
+
+}
+.imm img{
+    width:70%;
+    margin:15px 0px ;
+}
+.imm:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.therow{
+    width: 800px;
+    
+}
+.ruby h1{
+    font-size: 1.3rem;
+    color: gray;
+}
+.ktm{
+    background-color: rgb(224, 223, 223);
+}
+.rc{
+    background-color:rgb(192, 189, 189) ;
+}
+.rc .rcb{
+    text-align: center;
+    font-size: 1.8rem;
+   
+}
+.imn img{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 9999px;
+}
+.rob h1{
+    font-size: 1.125rem;
+}
+.rob h3{
+    font-size: 1.125rem;
+}
