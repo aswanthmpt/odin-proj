@@ -67,6 +67,7 @@
 .rc .rcb{
     text-align: center;
     font-size: 1.8rem;
+    padding-bottom: 70px;
    
 }
 .imn img{
@@ -79,4 +80,7 @@
 }
 .rob h3{
     font-size: 1.125rem;
+}
+.rcb{
+    padding-top: 30px;
 }
