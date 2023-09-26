@@ -59,10 +59,15 @@
     color: gray;
 }
 .ktm{
-    background-color: rgb(224, 223, 223);
+    background-color: rgb(216, 211, 211);
+    
 }
 .rc{
-    background-color:rgb(192, 189, 189) ;
+    background-color:rgb(223, 220, 220) ;
+    padding-left: 300px;
+    padding-right: 300px;
+    margin-top:0px;
+    padding-top: 0px;
 }
 .rc .rcb{
     text-align: center;
@@ -83,4 +88,36 @@
 }
 .rcb{
     padding-top: 30px;
+    color: rgb(31 41 55);
+    font-size: 1.8;
+}
+.therew{
+    padding-bottom: 80px;
+    margin-left: 1000px;
+}
+.pf{
+    padding-left: 40px;
+}
+.read{
+    text-align: center;
+    font-size: 1rem;
+    padding-bottom: 60px;
+}
+.sprt{
+    text-align: center;
+    font-size: 2rem;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+.hhh{
+    text-align: center;
+    font-size:.9rem;
+    color: rgb(107 114 128);
+
+}
+.lmo{
+    padding-left: 840px;
+}
+.thelast{
+    padding-bottom: 80px;
 }
