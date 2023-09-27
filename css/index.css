@@ -12,22 +12,37 @@
 .four{
     font-size: 1.875rem;
 }
+.three h6{
+    font-size: 1.5rem;
+    font-family: Inter,Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: rgb(107 114 128);
+    padding-top: 22px;
+    padding-bottom: 10px;
+}
+.three h1{
+    font-size: 1.2rem;
+    color:rgb(39, 37, 37) ;
+}
 .six{
     
     font-size: 1.125rem;
     line-height: 1.75rem;
 }
-.navbar od{
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+.title{
+    padding-left: 350px;
 }
-.row .ten{
-    font-size: 1.5rem;
+.row .ten h6{
+    font-size: 1.3rem;
     font-family: Inter,Helvetica Neue,Helvetica,Arial,sans-serif;
-    color: rgb(75 85 99);
+    color: rgb(117, 117, 117);
     text-align: center;
     margin-top: 40px;
     
 }
+.ten h4{
+    padding-top: 10px;
+}
+
 .eight h1{
     color: rgb(31 41 55);
     text-align: center;
@@ -61,6 +76,13 @@
 .ktm{
     background-color: rgb(216, 211, 211);
     
+}
+.you{
+    margin-bottom: 100px;
+}
+.ord{
+    
+    margin-left: 400px;
 }
 .rc{
     background-color:rgb(223, 220, 220) ;
@@ -122,8 +144,35 @@
     padding-bottom: 80px;
 }
 .final{
-    margin: 0px 400px;
+    margin:0px 400px;
+    margin-bottom: 100px;
 }
 .final h1{
     font-size: 1.2rem;
+}
+.twit{
+    display: inline;
+    width: 3.5rem;
+    padding-left: 1.5rem;
+}
+.fb{
+    display: inline;
+    width: 3.5rem;
+    padding-left: 1.5rem;
+}
+.gth{
+    display: inline;
+    width: 3.5rem;
+    padding-left: 1.5rem;
+}
+.disc{
+    display: inline;
+    width: 3.5rem;
+    padding-left: 1.5rem;
+}
+.wm{
+    font-size: .75rem;
+    color: rgb(75 85 99);
+    padding-left: 400px;
+    margin-bottom: 50px;
 }
