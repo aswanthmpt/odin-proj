@@ -116,8 +116,14 @@
 
 }
 .lmo{
-    padding-left: 840px;
+    padding-left: 800px;
 }
 .thelast{
     padding-bottom: 80px;
+}
+.final{
+    margin: 0px 400px;
+}
+.final h1{
+    font-size: 1.2rem;
 }
