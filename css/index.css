@@ -154,24 +154,21 @@
     
 }
 .lmi{
-    padding-right: 930px;
+    padding-right: 80px;
 }
 .lmi .btn{
     padding: 10px 15px;
 }
 .lmo{
-    padding-left: 930px;
+    padding-left: 800px;
 }
 .lmo .btn{
-    padding: 10px 20px;
+    padding: 10px 30px;
 }
 .thelast{
     padding-bottom: 80px;
 }
-.final{
-    margin:0px 400px;
-    margin-bottom: 100px;
-}
+
 .final h1{
     font-size: 1.2rem;
 }
@@ -198,6 +195,7 @@
 .wm{
     font-size: .75rem;
     color: rgb(75 85 99);
-    padding-left: 400px;
-    margin-bottom: 50px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
 }
