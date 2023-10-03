@@ -122,6 +122,15 @@
   
   
 }
+.ov{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+    .ov h1{
+
+    font-size: 1.8rem;
+    
+}
 .six{
     width:100%;
     text-align: center;
@@ -160,4 +169,36 @@
     font-size:1.5rem; 
     padding-top: 20px;
     color: rgb(146, 145, 145);
+}
+.ten img{
+    width: 60%;
+   
+}
+.ten{
+    
+    width: 50%;
+}
+.eleven{
+   
+    width: 50%;
+
+}
+.eleven h1{
+    margin-top: 20%;
+    margin-bottom: 10px;
+}
+.twelve{
+    
+    text-align: center;
+}
+.thirteen{
+    margin: auto;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    width: 70%;
+}
+.thirteen .btn{
+    width: 150px;
+    margin-top: 10px;
+    
 }
