@@ -34,23 +34,32 @@
    margin: auto;
    width: 35rem;
    height: 40rem;
+   text-align: left;
 
 }
+.qq h1{
+    font-size: 1.7rem;
+    padding-top:20px;
+}
 .qq h3{
-    font-size: 1.5rem
+    font-size: 1.5rem;
+   
     
 }
 
 .qq  span{
-    align-self: center;
+    padding-left: 250px;
 }
 .qq h2{
     font-size: 1.5rem;
-    color: rgb(107 114 128)
+    color: rgb(107 114 128);
+    padding-top:20px;
 }
-.az img{
-    width: 100px;
-   margin: auto;
+.abc{
+    width: 150px;
+    align-items: center;
+ 
+   
     
 }
 .qw h2{
@@ -58,9 +67,16 @@
     color: rgb(107 114 128);
 }
 .btt{
-    background-color: rgb(100, 99, 99);
+    background-color: rgb(76, 78, 82);
     color: white;
+    font-size: 1.2rem;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
+
+
 .cmm{
     width: 60rem;
     margin:auto;
