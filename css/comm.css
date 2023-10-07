@@ -26,3 +26,35 @@
     align-items: center;
     padding-top: 30px;
 }
+.mb{
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+}
+.mbb{
+    background-color: black;
+    padding-left: 20px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-color: black;
+}
+.mb h6{
+    margin-top: 10px;
+}
+.mb .btn{
+    background-color: rgb(62, 62, 228);
+    color: white;
+    margin-top: 20px;
+    font-size: 1.2rem;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.mb h5{
+    padding-top: 30px;
+    font-size: 1.4rem;
+    color: rgb(44, 135, 255);
+}
+.mb span{
+    color: rgb(44, 135, 255);
+}

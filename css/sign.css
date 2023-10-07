@@ -69,7 +69,70 @@
     margin-top: 40px;
     margin-bottom: 40px;
 }
-
 .one{
     background-color: rgb(249 250 251);
+    padding-bottom: 40px;
 }
+
+
+
+/* .onee{
+    width: 100%;
+    height: 100vh;
+  
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgb(249 250 251);
+
+   
+} */
+.two{
+    background-color: rgba(255, 255, 255, 0.99);
+    width: 37%;
+    height: 70vh;
+    margin-top: 100px;
+    margin-left: 30%;
+     
+    
+}
+.three{
+
+    
+  
+    
+
+}
+.cc {
+   
+    text-align: end;
+    
+    
+}
+.cc h6{
+    display: inline;
+}
+
+.mb{
+    padding-left: 30px;
+    padding-right: 30px;
+    color: rgb(0, 0, 0);
+}
+.mbb{
+    background-color: rgb(255, 255, 255);
+    padding-left: 20px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-color: black;
+}
+
+.mb .btn{
+    background-color: rgb(4, 125, 69);
+    color: white;
+    margin-top: 20px;
+    font-size: 1.2rem;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
