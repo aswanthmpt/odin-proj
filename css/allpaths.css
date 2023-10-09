@@ -19,10 +19,14 @@
 
 
 .pp{
-    text-align: center;
+    display: flex;
+    justify-content: center;
 }
 .pp h1{
     font-size: 1.5rem;
+}
+.pp hr{
+    width: 40%;
 }
 .roww h1{
     font-size: 2rem;

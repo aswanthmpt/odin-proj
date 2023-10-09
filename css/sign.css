@@ -72,6 +72,7 @@
 .one{
     background-color: rgb(249 250 251);
     padding-bottom: 40px;
+    margin-top: 1%;
 }
 
 
@@ -89,14 +90,17 @@
 } */
 .two{
     background-color: rgba(255, 255, 255, 0.99);
-    width: 37%;
-    height: 70vh;
-    margin-top: 100px;
+    width: 28%;
+    height: 80%;
+    margin-top: 1%;
     margin-left: 30%;
+    margin-bottom: 10%;
+    padding-bottom: 3%;
      
     
 }
-.three{
+.zz h1{
+    font-size: 1.8rem;
 
     
   
@@ -109,30 +113,89 @@
     
     
 }
-.cc h6{
-    display: inline;
-}
+
+
 
 .mb{
     padding-left: 30px;
     padding-right: 30px;
     color: rgb(0, 0, 0);
+    
+}
+.form-label h1{
+    font-size: .9rem;
+    padding-bottom: 1%;
+    padding-top: 30%;
 }
 .mbb{
     background-color: rgb(255, 255, 255);
     padding-left: 20px;
     padding-right: 30px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    border-color: black;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-color: rgba(190, 175, 175, 0.781);
+}
+.form-check h1{
+    font-size: .8rem;
+    font-weight: 300;
+    
+}
+.form-check h6{
+    font-size: .8rem;
+    font-weight: 300;
+    padding-left: 40%;
+}
+.form-check{
+    margin-top: 6%;
+    display:flex;
 }
 
-.mb .btn{
+.jj .btn{
     background-color: rgb(4, 125, 69);
     color: white;
     margin-top: 20px;
-    font-size: 1.2rem;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    font-size: 1rem;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    width: 70%;
+
+ 
+}
+.jj{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+}
+.xx{
+    display: flex;
+    justify-content: center;
+    margin-top: 4%;
+}
+.xx hr{
+    width: 30%;
+}
+.xx h5{
+    font-size: 1rem;
+    font-weight: 300;
+}
+.la .btn{
+
+    margin-top: 10%;
+    width: 40%;
+}
+.la img{
+    width: 20%;
+}
+.la{
+    display: flex;
+    justify-content:center ;
+}
+.tts{
+    display: flex;
+    justify-content: center;
+}
+.tts h1{
+    margin-right: 2%;
+    margin-bottom: 5%;
 }
 

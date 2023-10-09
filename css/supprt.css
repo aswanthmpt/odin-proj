@@ -79,7 +79,7 @@
 }
 .two{
   
-    width: 50%;
+    width: 40%;
     margin: auto;
     text-align: center;
     padding-top: 4%;
@@ -87,8 +87,14 @@
 }
 .two h1{
     padding-bottom:4%;
+    font-size: 1.8rem;
 }
 .two h4{
+    font-size: 1.1rem;
+    font-weight: 300;
+    line-height: 2rem;
+}
+.bb h1{
     font-size: 1.4rem;
 }
 .three{
@@ -96,13 +102,16 @@
 }
 .five h1{
     padding-top: 30px;
-    font-size: 1.7rem;
+    font-size: 1.4rem;
 }
 .five h5{
-    font-size: 1.4rem;
+    font-size: 1.2rem;
+    font-weight: 390;
+    line-height: 2rem;
     color: rgb(93, 105, 113);
     padding-top: 20px;
 }
 .five{
     padding-bottom: 80px;
+    width: 50%;
 }

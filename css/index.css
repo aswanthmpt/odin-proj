@@ -199,3 +199,11 @@
     margin-bottom: 40px;
 
 }
+.tts{
+    display: flex;
+    justify-content: center;
+}
+.tts h1{
+    margin-right: 2%;
+    margin-bottom: 5%;
+}
